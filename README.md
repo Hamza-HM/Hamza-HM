@@ -88,11 +88,27 @@ I focus on **scalable systems**, **maintainable code**, and **software that hold
 
 <div align="center">
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-HM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub followers](https://img.shields.io/github/followers/Hamza-HM?label=Followers&style=for-the-badge&color=0ea5e9)](https://github.com/Hamza-HM?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Hamza-HM?label=Stars&style=for-the-badge&color=8b5cf6)](https://github.com/Hamza-HM?tab=stars)
+[![Public repos](https://img.shields.io/badge/Public%20Repos-20-22c55e?style=for-the-badge)](https://github.com/Hamza-HM?tab=repositories)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-HM&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
 
-![GitHub streak](https://github-readme-streak-stats.demolab.com/?user=Hamza-HM&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Hamza-HM">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamza-HM&theme=tokyonight" alt="GitHub profile details" height="180" />
+</a>
+<a href="https://github.com/Hamza-HM">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamza-HM&theme=tokyonight" alt="GitHub stats" height="180" />
+</a>
+
+<br>
+
+<a href="https://github.com/Hamza-HM">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamza-HM&theme=tokyonight&exclude=html,css,scss" alt="Top languages" height="180" />
+</a>
+<a href="https://github.com/Hamza-HM">
+  <img src="https://streak-stats.dher.dev/?user=Hamza-HM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="180" />
+</a>
 
 </div>
 
