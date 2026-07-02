@@ -17,9 +17,9 @@
 
 ## About me
 
-I'm a **full-stack software engineer** who designs and ships production-grade products — system architecture, APIs, web and mobile apps, and the **cloud infrastructure** behind them.
+**Full-stack engineer** with strong **production ops** — AWS, GCP, Vercel, Render, Railway, Docker, CI/CD, DNS/CDN.
 
-I work across **AWS** and **GCP**, handle **DNS and domain setup** for live products, and focus on systems that scale reliably in production.
+I design and ship production-grade products: system architecture, APIs, web and mobile apps, and the infrastructure that keeps them running at scale.
 
 **Languages I work in:** English · Français · العربية
 
@@ -60,13 +60,15 @@ I work across **AWS** and **GCP**, handle **DNS and domain setup** for live prod
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & infrastructure
+### Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/DNS_Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -75,8 +77,7 @@ I work across **AWS** and **GCP**, handle **DNS and domain setup** for live prod
 - Full-stack product development — web, mobile & APIs to production
 - API design, backend architecture & SaaS platforms
 - E-commerce, multivendor & order-management systems
-- **AWS & GCP** — deployment, cloud services & production operations
-- **DNS, domains & routing** — setup and management for live products
+- **Infrastructure & deployments** — multi-cloud + PaaS, DNS/CDN, production environment configuration
 - Mobile apps with Flutter
 - Test automation platforms for enterprise QA workflows
 
